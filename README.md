@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning **C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ginleamited?tab=repositories](https://github.com/ginleamited?tab=repositories)
-
 - 📫 How to reach me **linbusinessmailbox@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
