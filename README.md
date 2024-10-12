@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Profile%20views&color=0e75b6&style=flat" alt="ginleamited" /> </p>
 
-- 🔭 I’m currently working on [Libft].
+- 🔭 I’m currently working on Libft
 
 - 🌱 I’m currently learning **C**
 
