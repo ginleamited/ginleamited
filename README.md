@@ -14,10 +14,6 @@ I am a Software Developer experienced in **C, C++, and Python**. I enjoy solving
 <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 <br/>
-<br/>
-
-[![Gin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginleamited&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ginleamited)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginleamited&layout=compact&theme=dracula&hide_border=true&bg_color=00000000)](https://github.com/ginleamited)
 
 </div>
 
