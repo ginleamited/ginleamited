@@ -14,10 +14,6 @@ Building efficient software requires understanding the machine. That’s why I s
 <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Views&color=0078D4&style=flat-square" alt="Profile Views" />
 
 <br/>
-<br/>
-
-[![Gin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginleamited&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)](https://github.com/ginleamited)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginleamited&layout=compact&theme=dracula&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true)](https://github.com/ginleamited)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ginleamited/ginleamited/output/github-contribution-grid-snake-dark.svg">
