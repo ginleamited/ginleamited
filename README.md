@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Profile%20views&color=0e75b6&style=flat" alt="ginleamited" /> </p>
 
+I am a Software Developer experienced in C, C++, and Python. I enjoy solving complex algorithmic problems and building efficient software solutions.
+
 - 🔭 I’m currently working on Common Core of 42
 
 - 🌱 I’m currently learning **C**
