@@ -13,8 +13,6 @@ I am a Software Developer experienced in **C, C++, and Python**. I enjoy solving
 </a>
 <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
-<hr/>
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
