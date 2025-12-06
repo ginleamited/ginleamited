@@ -15,8 +15,6 @@ I am a Software Developer experienced in **C, C++, and Python**. I enjoy solving
 
 <br/>
 
-</div>
-
 <hr/>
 
 ## 🛠️ Languages & Tools
