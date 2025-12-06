@@ -1,13 +1,3 @@
-<div align="center">
-
-[![Gin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ginleamited&show_icons=true&theme=dracula&hide_border=true)](https://github.com/ginleamited)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginleamited&layout=compact&theme=dracula&hide_border=true)](https://github.com/ginleamited)
-
-</div>
-
-<hr/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ginleamited&label=Profile%20views&color=0e75b6&style=flat" alt="ginleamited" /> </p>
 
 I am a Software Developer experienced in C, C++, and Python. I enjoy solving complex algorithmic problems and building efficient software solutions.
